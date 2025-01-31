@@ -29,5 +29,5 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 ***
 
 <img src="https://cdn.newscj.com/news/photo/202407/3163163_3199369_2756.png">
-##source : https://www.newscj.com/news/articleView.html?idxno=3163163
+source : https://www.newscj.com/news/articleView.html?idxno=3163163
 
