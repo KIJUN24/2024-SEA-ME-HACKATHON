@@ -28,5 +28,5 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 ***
 
-<img alt="선문대 미래자동차공학부 학생들이 ‘2024 SEA:ME 해커톤’ 대회에서 대상을 받은 후 기념촬영을 하고 있다. (제공: 선문대학교)ⓒ천지일보 2024.07.25." src="https://cdn.newscj.com/news/photo/202407/3163163_3199369_2756.png">
+<img src="https://cdn.newscj.com/news/photo/202407/3163163_3199369_2756.png">
 
