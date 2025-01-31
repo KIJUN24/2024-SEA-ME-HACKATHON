@@ -26,6 +26,17 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 팀원 : 이기준, 김동영, 김유찬, 한민규
 
+***
+
+Role
+
+Kijun : LiDAR Detect and ROI(Angle change), Camera Line Detect.
+
+Dongyeong : Code Combine, Camera Line Detect(find moment).
+
+Yuchan : IMU, Ultrasonic Sensors.
+
+Mingyu : 3D Design, Ultrasonic Sensors.
 
 ***
 
