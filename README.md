@@ -4,6 +4,7 @@
 ***
 
 <img src="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616" alt="" height="597" width="616" decoding="async" srcset="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=216 216w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=464 464w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616 616w">
+source : https://biz.chosun.com/industry/car/2024/05/27/6WE6EIU7W4JPLA7FEGFGH4YSBQ/
 
 ***
 
