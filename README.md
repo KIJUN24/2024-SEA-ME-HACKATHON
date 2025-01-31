@@ -8,11 +8,13 @@ University : Sunmoon
 
 학교 : 선문대학교
 
+***
 
 Team Name : AutoSun
 
 팀명 : AutoSun
 
+***
 
 Leader : Kijun Lee
 Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
