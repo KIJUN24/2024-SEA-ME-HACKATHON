@@ -1,6 +1,9 @@
 # 2024-SEA-ME-HACKATHON
 2024 미래자동차 SW 인재양성 글로벌 프로그램 SAE:ME HACKATHON
 
+***
+
+<img src="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616" alt="" height="597" width="616" decoding="async" srcset="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=216 216w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=464 464w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616 616w">
 
 ***
 
@@ -25,4 +28,4 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 ***
 
-<img src="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616" alt="" height="597" width="616" decoding="async" srcset="https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=216 216w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=464 464w,https://biz.chosun.com/resizer/v2/OZ46TCDQHJMBKC32IMGECBDKMI.jpg?auth=3204ff0e7406998371871b8e89a630d2618aaa74f045299eaba02e74946642f5&amp;width=616 616w">
+
