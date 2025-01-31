@@ -17,6 +17,7 @@ Team Name : AutoSun
 ***
 
 Leader : Kijun Lee
+
 Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 팀원 : 이기준, 김동영, 김유찬, 한민규
